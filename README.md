@@ -20,6 +20,4 @@ It uses predefined patterns and responses (via NLTK’s `Chat` and `reflections`
 - **NLTK (Natural Language Toolkit)** for chatbot logic
 - **HTML/CSS** (inside Streamlit) for styling
 
-<p align="center">
-  <img src="C:\Users\ritika\Pictures\Screenshots" alt="Chatbot" width="600"/>
-</p>
+
