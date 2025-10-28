@@ -21,5 +21,5 @@ It uses predefined patterns and responses (via NLTK’s `Chat` and `reflections`
 - **HTML/CSS** (inside Streamlit) for styling
 
 <p align="center">
-  <img src="C:\Users\ritika\Pictures\Screenshots" alt="Chatbot UI" width="600"/>
+  <img src="C:\Users\ritika\Pictures\Screenshots" alt="Chatbot" width="600"/>
 </p>
